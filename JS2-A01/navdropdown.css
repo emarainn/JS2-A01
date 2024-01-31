@@ -1,0 +1,11 @@
+.dropdown:hover .dropdown-menu{
+    display: block;
+  }
+
+  .dropdown-menu .drop {
+    min-width: 400px
+  }
+
+ .dropdown-menu{
+    text-align: left;
+ }

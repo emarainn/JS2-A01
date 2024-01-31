@@ -1,0 +1,8 @@
+:root {
+    --wctc-primary: #004a99; /* Example Primary Color */
+    --wctc-secondary: #ffcc00; /* Example Secondary Color */
+    }
+    .bg-wctc-primary { background-color: var(--wctc-primary) !important; }
+    .bg-wctc-secondary { background-color: var(--wctc-secondary) !important; }
+    .text-wctc-primary { color: var(--wctc-primary) !important; }
+    .text-wctc-secondary { color: var(--wctc-secondary) !important; }
